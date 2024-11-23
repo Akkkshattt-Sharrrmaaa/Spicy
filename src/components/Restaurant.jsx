@@ -17,6 +17,7 @@ const Restaurant = (props) => {
 
             <img
                 className=" rounded-2xl h-[150px] object-cover opacity-85"
+                alt="restaurant-img"
                 src={swiggyCloudinaryImgUrl + data?.info?.cloudinaryImageId}
             />
 

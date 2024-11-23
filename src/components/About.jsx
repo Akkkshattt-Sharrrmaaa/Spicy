@@ -1,7 +1,7 @@
 import React from 'react';
 import {Link} from "react-router-dom";
 
-function About(props) {
+function About() {
     return (
         <div
             className="w-full h-[70vh] flex flex-col items-center justify-center"

@@ -1,6 +1,6 @@
 import OptionButton from "./OptionButton.jsx";
 
-function FilterOptions(props) {
+function FilterOptions() {
     return (
         <div
             className="flex gap-x-2"
